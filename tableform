@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Regestration Form</title>
+</head>
+<body><header>
+		<nav>
+		<a href="./index.html">SARVESH</a>
+		<a href="./colour.html">COLOUR</a>
+		<a href="./headings.html" target="_self">Headings</a>
+		</nav>
+	</header>
+			
+	<h1>LOGIN FORM</h1>
+	<form>
+	<table >
+		<tr>
+			<td><label>USER ID</label> </td>
+			<td><input type="USER ID" placeholder="user id" name="user id"></td>
+
+        </tr>
+        <tr>
+            <td> <label>USER NAME</label></td>
+            <td><input type="USER NAME"	 placeholder="name"  name="name"></td>
+        </tr>
+        <tr>
+            <td><input type="submit" name="submit" style="background: blue;"></td>
+        </tr>
+
+</table>
+</form>
+</body>
+</html>
